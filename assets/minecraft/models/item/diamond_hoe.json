@@ -234,6 +234,7 @@
 		{ "predicate": { "damaged": 0, "damage": 0.8156209987195903 }, "model": "custom/vehicles/boat_1" },
 		{ "predicate": { "damaged": 0, "damage": 0.8162612035851472 }, "model": "custom/vehicles/boat_2" },
 		{ "predicate": { "damaged": 0, "damage": 0.8169014084507042 }, "model": "custom/vehicles/boat_3" },
+		{ "predicate": { "damaged": 0, "damage": 0.8175416133162612 }, "model": "custom/vehicles/nimbus_2000" },
 		{ "predicate": { "damaged": 1 }, "model": "item/diamond_hoe" }
 	]
 }
